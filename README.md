@@ -1,6 +1,6 @@
 # Apache Flink极客挑战赛——垃圾图片分类—复赛Python code
 
-说明：
+# 1. 代码说明
 1. 采用Tensorflow slim (开源)
 2. model.py为主入口文件。
 3. 总共训练出三个模型文件，分别基于 resnet_v1_101（resnet_v1_50也可以）, inception_v4, inception_v3的ImageNet数据集的预训练checkpoint。
@@ -17,4 +17,5 @@ http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz
 http://download.tensorflow.org/models/inception_v4_2016_09_09.tar.gz
 http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
 
-
+# 2. 许可声明
+你可以使用此代码用于学习和研究，但务必不要将此代码用于任何商业用途和比赛项目。
