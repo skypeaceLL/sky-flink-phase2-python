@@ -18,4 +18,4 @@ http://download.tensorflow.org/models/inception_v4_2016_09_09.tar.gz
 http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
 
 # 2. 许可声明
-你可以使用此代码用于学习和研究，但务必不要将此代码用于任何商业用途和比赛项目。
+你可以使用此代码用于学习和研究，但务必不要将此代码用于任何商业用途和比赛项目（slim那部分代码除外）。
