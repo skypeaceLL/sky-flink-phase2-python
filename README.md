@@ -8,7 +8,7 @@
 5. 训练过程中以指定时间间隔生成多个Checkpoint文件，训练完后，逐个检查Checkpoint的val_acc，选择最大值的checkpoint用来Export saved models(3个TF Saved Model）。
 6. pre_train目录下预训练文件有3个，分别是：
 ```
-pre_train/resnent_v1_101.ckpt
+pre_train/resnet_v1_101.ckpt
 pre_train/inception_v4.ckpt
 pre_train/inception_v3.ckpt
 ```
