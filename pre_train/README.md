@@ -1,6 +1,6 @@
 pre_train目录下预训练文件有3个，分别是：
 ```
-pre_train/resnent_v1_101.ckpt
+pre_train/resnet_v1_101.ckpt
 pre_train/inception_v4.ckpt
 pre_train/inception_v3.ckpt
 ```
